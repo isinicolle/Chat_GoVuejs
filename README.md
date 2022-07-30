@@ -15,6 +15,10 @@
 
 Video: https://youtu.be/
 
+<br>
+
+Deploy: 
+
 ## Tecnologias utilizadas: 
 
 -Golang
